@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "270763817927",
+    "firebase_url": "https://myfirstproject-845e8.firebaseio.com",
+    "project_id": "myfirstproject-845e8",
+    "storage_bucket": "myfirstproject-845e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270763817927:android:694bf96a81521f35",
+        "android_client_info": {
+          "package_name": "com.wisilica.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270763817927-sav0d2qsigvjd8o704emg8jq2g4a4pv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9gXTeH2RY0ZvXJh7nqLvTSXbabiGELfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
